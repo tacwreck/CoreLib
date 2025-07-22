@@ -16,4 +16,4 @@ CoreLib focuses on:
 
 This library is ideal for teams and solo developers who want to enforce a consistent standard across their projects without being locked into a bloated or overly opinionated framework.
 
-Documentation, setup instructions, and examples are provided separately in `instructions.md`.
+Documentation, setup instructions, and examples are provided separately in `INSTRUCTIONS.md`.
