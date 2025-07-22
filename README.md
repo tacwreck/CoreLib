@@ -1,6 +1,6 @@
 # CoreLib
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: MSL](https://img.shields.io/badge/License-MSL-blue.svg)](LICENSE)
 
 CoreLib is a lightweight, modular development library designed to provide developers with a solid foundation of reusable components, helper functions, and abstractions. Its purpose is to eliminate repetitive code, speed up development, and encourage consistent architecture across projects.
 
